@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate in Computer Engineering at Purdue University. Advised by Dr. Vishal Shrivastav.
+subtitle: PhD student in Computer Engineering at Purdue University. Advised by Dr. Vishal Shrivastav.
 
 profile:
   align: right
