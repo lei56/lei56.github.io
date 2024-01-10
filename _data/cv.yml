@@ -16,12 +16,13 @@
       year: 2026
       description:
         - Currently pursuing
-        - Research in computer networks, programmable switches, and hardware systems.
+        - Research in computer network systems, programmable switches, caching, and ML.
+        - Completed coursework in datacenter and cloud networks, computational models, big data reliability and security, and wireless communication networks.
     - title: B.S. Computer Engineering
       institution: Purdue University - West Lafayette
       year: 2022
       description:
-        - GPA: 3.83
+        - 3.83 GPA
         - Completed coursework in computer networks, artificial intelligence, ASIC design, cybersecurity, operating systems, and more.
 
 - title: Experience
@@ -34,24 +35,27 @@
         - Conducting research into novel network control data communication scheme for programmable switches.
     - title: Research Scientist Intern
       institution: Riverside Research
-      year: Summer 2022
+      year: 2022
       description:
-        - Researched implementation of virtual memory fuse to the Xen hypervisor.
+        - Aided implementation of virtual memory fuse to the Xen hypervisor.
     - title: Undergrad Research Assistant
       institution: Purdue University
-      year: Summer 2021
+      year: 2021
       description:
         - Created software simulation for stateful multi-pipelined programmable dataplane network switch prototype.
     - title: Software Engineer Intern
       institution: Nuance Communications
-      year: Summer 2019, Summer 2020
+      year: 2019, 2020
       description:
-        - Created scripts to aid in management of CI/CD in projects.
+        - Programmed scripts to aid in project CI/CD management.
         - Fixed security vulnerabilities in versions of Dragon NaturallySpeaking.
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2022
+      items:
+        - Ross Fellowship
     - year: 2018-2022
       items: 
         - Dean's List and Semester Honors
@@ -64,16 +68,13 @@
   contents:
     - title: Computer Networks
       items: 
-        - Programmable data plane switches.
-        - Software-defined networks.
+        - Programmable data plane switches
+        - In-network caching
+        - Machine learning
+        - Software-defined networks
     - title: Operating Systems
       items:
         - Xen Hypervisor
     - title: Cybersecurity
       items:
         - Embedded security.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

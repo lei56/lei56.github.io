@@ -14,4 +14,4 @@ profile:
     (978) 844-7882
 ---
 
-I am a graduate researcher in computer engineering at Purdue University. My research interests typically lie in the field of computer networks, in particular programmable switches. I am currently working on a paper implementing a new packet communication primitive that allows data to be exchanged between network switches with practically 0 throughput overhead. Feel free to ask me anything! 
+I am a graduate researcher in computer engineering at Purdue University. My research interests include computer network systems, programmable switches, and caching. My paper recently accepted to NSDI '24 enables future-aware caching on network switches using a future packet notification scheme. Feel free to ask me anything! 
